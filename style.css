@@ -19,3 +19,8 @@ ul {
     font-size: 30px;
     color: red;
 }
+
+.search-results {
+    padding: 30px;
+    border: 1px solid gray;
+}
